@@ -1,4 +1,3 @@
-
 int X=0;
 int Y=70;
 int A=100;
@@ -35,4 +34,5 @@ void draw () {
   {
     bounce=bounce*(-1);
   }
+  
   }
